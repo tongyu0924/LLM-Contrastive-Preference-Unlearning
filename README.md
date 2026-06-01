@@ -1,4 +1,4 @@
-# LLM Preference Unlearning
+# LLM Contrastive Preference Unlearning
 
 Machine unlearning for LLMs using contrastive learning in representation space, combined with preference optimization.
 
